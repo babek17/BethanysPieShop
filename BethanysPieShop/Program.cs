@@ -3,6 +3,7 @@ using BethanysPieShop.App;
 using BethanysPieShop.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
+using BethanysPieShop.Users.babek_10_5.BethanysPieShop.BethanysPieShop.App;
 
 var builder = WebApplication.CreateBuilder(args);
 

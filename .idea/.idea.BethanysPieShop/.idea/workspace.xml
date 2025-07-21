@@ -8,7 +8,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="97321e38-7272-4d79-a8c7-5b7c011ebcf3" name="Changes" comment="" />
+    <list default="true" id="97321e38-7272-4d79-a8c7-5b7c011ebcf3" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.BethanysPieShop/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.BethanysPieShop/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,6 +45,7 @@
     ".NET Launch Settings Profile.BethanysPieShop: http.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -106,6 +109,7 @@
       <workItem from="1752983814287" duration="139000" />
       <workItem from="1752983997538" duration="252000" />
       <workItem from="1752984380728" duration="147000" />
+      <workItem from="1752984545282" duration="296000" />
     </task>
     <servers />
   </component>
