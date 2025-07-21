@@ -1,9 +1,8 @@
 using System.Text.Json.Serialization;
-using BethanysPieShop.App;
 using BethanysPieShop.Models;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.AspNetCore.Identity;
-using BethanysPieShop.Users.babek_10_5.BethanysPieShop.BethanysPieShop.App;
+using BethanysPieShop.App;
 
 var builder = WebApplication.CreateBuilder(args);
 
